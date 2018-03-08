@@ -1,16 +1,19 @@
 body 
 {
     background-color: black;
-    
 }
 h1 
 {
-    color: yellow;
+    color: green;
     margin-left: 20px;
+}
+table 
+{
+    border-collapse: collapse;
 }
 table,th,td
 {
-   border: 1px solid white;
+   border: 1px solid green;
 }
 
 th, td 
@@ -23,3 +26,9 @@ th, td
    
    border-bottom: 1px solid #ddd;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+
