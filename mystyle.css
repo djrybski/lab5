@@ -1,6 +1,5 @@
 body {
-    background-image: url("pics/ss.jpg");
-    background-repeat: no-repeat;
+    background-color: black;
     
 }
 h1 {
@@ -8,7 +7,7 @@ h1 {
     margin-left: 20px;
 }
 table {
-   border: 1px black;
+   border: 1px white;
 }
  th, td {
    font-family: Comic Sans MS, cursive, sans-serif
