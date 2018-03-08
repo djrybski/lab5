@@ -16,3 +16,7 @@ table {
    padding: 4px;
    border-bottom: 1px solid #ddd;
 }
+tr.d1 td {
+  background-color: #9999CC;
+  color: green;
+}
