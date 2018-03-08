@@ -27,8 +27,13 @@ th, td
    border-bottom: 1px solid #ddd;
 }
 
-table {
-    border-collapse: collapse;
+th
+{
+   background-color; #a70000;
+   color: white;
+}
+
+
 }
 
 
