@@ -39,5 +39,9 @@ tr:nth-child(odd)
 {
 	background-color: white;
 }
-
+h4{
+	font-size: 16px;
+	align-content: center;
+	color: white;
+	text-align: center;
 
